@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Photo from './Photo';
 import NotFound from './NotFound';
-import apiKey from '../config';
+import apiKey from '../config.js';
 import axios from 'axios';
 
 /**
